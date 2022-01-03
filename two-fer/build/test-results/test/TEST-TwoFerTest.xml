@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwoFerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-03T22:16:10" hostname="ni-57550-0.uolcorp.intranet" time="0.028">
+  <properties/>
+  <testcase name="noNameGiven" classname="TwoFerTest" time="0.025"/>
+  <testcase name="emptyStringGiven" classname="TwoFerTest" time="0.0"/>
+  <testcase name="aNameGiven" classname="TwoFerTest" time="0.001"/>
+  <testcase name="anotherNameGiven" classname="TwoFerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
