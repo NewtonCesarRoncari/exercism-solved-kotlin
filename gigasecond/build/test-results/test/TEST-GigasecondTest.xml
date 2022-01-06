@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GigasecondTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-01-06T00:33:42" hostname="ni-57550-0.uolcorp.intranet" time="0.022">
+  <properties/>
+  <testcase name="full time specified" classname="GigasecondTest" time="0.02"/>
+  <testcase name="date only specification of time" classname="GigasecondTest" time="0.001"/>
+  <testcase name="full time with day roll-over" classname="GigasecondTest" time="0.0"/>
+  <testcase name="second test for date only specification of time" classname="GigasecondTest" time="0.001"/>
+  <testcase name="third test for date only specification of time" classname="GigasecondTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
