@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MatrixTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-01-10T23:42:36" hostname="ni-57550-0.uolcorp.intranet" time="0.051">
+  <properties/>
+  <testcase name="extract row from one number matrix" classname="MatrixTest" time="0.045"/>
+  <testcase name="extract column from one number matrix" classname="MatrixTest" time="0.001"/>
+  <testcase name="extract row from matrix" classname="MatrixTest" time="0.001"/>
+  <testcase name="extract row from non square matrix" classname="MatrixTest" time="0.0"/>
+  <testcase name="extract column from non square matrix" classname="MatrixTest" time="0.001"/>
+  <testcase name="extract column matrix" classname="MatrixTest" time="0.0"/>
+  <testcase name="extract row from diff widths matrix" classname="MatrixTest" time="0.001"/>
+  <testcase name="extract column from diff widths matrix" classname="MatrixTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
