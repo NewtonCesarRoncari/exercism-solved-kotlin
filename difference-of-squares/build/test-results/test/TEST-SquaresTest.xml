@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SquaresTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-01-12T01:52:00" hostname="CTNAPPLE3EFML7J.local" time="0.026">
+  <properties/>
+  <testcase name="squareOfSum100" classname="SquaresTest" time="0.024"/>
+  <testcase name="squareOfSum1" classname="SquaresTest" time="0.0"/>
+  <testcase name="squareOfSum5" classname="SquaresTest" time="0.0"/>
+  <testcase name="sumOfSquares100" classname="SquaresTest" time="0.001"/>
+  <testcase name="differenceOfSquares1" classname="SquaresTest" time="0.0"/>
+  <testcase name="differenceOfSquares5" classname="SquaresTest" time="0.0"/>
+  <testcase name="differenceOfSquares100" classname="SquaresTest" time="0.0"/>
+  <testcase name="sumOfSquares1" classname="SquaresTest" time="0.0"/>
+  <testcase name="sumOfSquares5" classname="SquaresTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
