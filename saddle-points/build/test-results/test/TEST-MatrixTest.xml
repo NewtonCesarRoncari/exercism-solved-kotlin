@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MatrixTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-01-19T01:24:47" hostname="CTNAPPLE3EFML7J.local" time="0.092">
+  <properties/>
+  <testcase name="no saddle points for nonempty matrix" classname="MatrixTest" time="0.064"/>
+  <testcase name="saddle point in bottom right corner" classname="MatrixTest" time="0.005"/>
+  <testcase name="no saddle points for empty matrix" classname="MatrixTest" time="0.003"/>
+  <testcase name="multiple saddle points in a column" classname="MatrixTest" time="0.017"/>
+  <testcase name="saddle points in a single column matrix" classname="MatrixTest" time="0.0"/>
+  <testcase name="multiple saddle points in a row" classname="MatrixTest" time="0.0"/>
+  <testcase name="single saddle point" classname="MatrixTest" time="0.0"/>
+  <testcase name="saddle points in a single row matrix" classname="MatrixTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
