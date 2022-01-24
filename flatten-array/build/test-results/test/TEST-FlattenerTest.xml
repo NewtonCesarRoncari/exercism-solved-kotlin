@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FlattenerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-01-24T23:18:34" hostname="CTNAPPLE3EFML7J.local" time="0.047">
+  <properties/>
+  <testcase name="flattens6LevelNestedList" classname="FlattenerTest" time="0.042"/>
+  <testcase name="allNullNestedListReturnsEmptyList" classname="FlattenerTest" time="0.003"/>
+  <testcase name="flattens5LevelNestedList" classname="FlattenerTest" time="0.0"/>
+  <testcase name="flatListIsUnchanged" classname="FlattenerTest" time="0.001"/>
+  <testcase name="flattens2LevelNestedList" classname="FlattenerTest" time="0.0"/>
+  <testcase name="flattens6LevelNestedListWithNulls" classname="FlattenerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
