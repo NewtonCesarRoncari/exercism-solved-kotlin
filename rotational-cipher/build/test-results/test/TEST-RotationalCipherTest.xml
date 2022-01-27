@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RotationalCipherTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-01-27T04:08:28" hostname="CTNAPPLE3EFML7J.local" time="0.05">
+  <properties/>
+  <testcase name="testRotateLowercaseABy26SingleWrapAround" classname="RotationalCipherTest" time="0.045"/>
+  <testcase name="testRotateLowercaseNBy1SingleWrapAround" classname="RotationalCipherTest" time="0.0"/>
+  <testcase name="testSpacesAreUnalteredByRotation" classname="RotationalCipherTest" time="0.0"/>
+  <testcase name="testRotateLowercaseABy1NoWrapAround" classname="RotationalCipherTest" time="0.001"/>
+  <testcase name="testPunctuationIsUnalteredByRotation" classname="RotationalCipherTest" time="0.0"/>
+  <testcase name="testNumbersAreUnalteredByRotation" classname="RotationalCipherTest" time="0.0"/>
+  <testcase name="testRotateLowercaseABy0" classname="RotationalCipherTest" time="0.001"/>
+  <testcase name="testAllLettersRotateCorrectly" classname="RotationalCipherTest" time="0.0"/>
+  <testcase name="testRotateCapitalLettersNoWrapAround" classname="RotationalCipherTest" time="0.0"/>
+  <testcase name="testRotateLowercaseMBy13NoWrapAround" classname="RotationalCipherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
