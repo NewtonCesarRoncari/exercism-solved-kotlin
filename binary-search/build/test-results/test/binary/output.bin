@@ -1,0 +1,200 @@
+Searching 4 should be at 1 in:
+[1, 4, 12, 41, 53, 61]
+Searching 1 should be at 0 in:
+[1, 32, 36, 55]
+ Searching 18 should be at 1 in:
+[1, 18, 29]
+ Searching 44 should be at 3 in:
+[1, 27, 36, 44, 62, 64, 68]
+Searching 1 should be at 0 in:
+[1, 26, 32, 42]
+Searching 1 should be at 0 in:
+[1]
+ Searching 47 should be at 3 in:
+[1, 2, 25, 47, 54, 67]
+ Searching 25 should be at 1 in:
+[1, 25, 44, 74, 80]
+ Searching 46 should be at 2 in:
+,[1, 27, 46, 75, 85, 87, 104, 135, 144, 170]
+ Searching 14 should be at 1 in:
+[1, 14, 19, 29, 51, 62]
+ Searching 35 should be at 2 in:
+7[1, 14, 35, 65, 78, 109, 131, 157, 188, 218, 225, 238]
+ Searching 85 should be at 4 in:
+[1, 18, 35, 55, 85]
+Searching 1 should be at 0 in:
+5[1, 9, 26, 49, 71, 92, 116, 119, 145, 171, 193, 197]
+Searching 3 should be at 1 in:
+[1, 3, 15, 43, 47, 70]
+ Searching 71 should be at 4 in:
+%[1, 6, 33, 60, 71, 91, 99, 103, 113]
+Searching 1 should be at 0 in:
+[1]
+ Searching 20 should be at 1 in:
+%[1, 20, 37, 46, 57, 87, 88, 91, 104]
+Searching 1 should be at 0 in:
+[1, 14, 41]
+Searching 1 should be at 0 in:
+[1, 30, 37]
+Searching 1 should be at 0 in:
+[1]
+!Searching 130 should be at 8 in:
+?[1, 22, 38, 54, 61, 92, 94, 125, 130, 136, 158, 167, 194, 224]
+ Searching 72 should be at 4 in:
+[1, 25, 37, 58, 72, 103, 133]
+Searching 1 should be at 0 in:
+[1, 21]
+!Searching 138 should be at 8 in:
+7[1, 23, 44, 66, 85, 100, 105, 127, 138, 142, 145, 168]
+ Searching 62 should be at 5 in:
+ [1, 25, 33, 37, 46, 62, 84, 90]
+Searching 1 should be at 0 in:
+[1]
+Searching 1 should be at 0 in:
+[1]
+ Searching 19 should be at 2 in:
+8[1, 4, 19, 22, 52, 68, 82, 96, 101, 113, 118, 125, 126]
+ Searching 99 should be at 7 in:
+=[1, 7, 31, 41, 59, 66, 71, 99, 102, 125, 139, 148, 167, 176]
+Searching 1 should be at 0 in:
+[1, 7, 32, 61]
+!Searching 101 should be at 4 in:
+[1, 31, 58, 76, 101, 103, 110]
+!Searching 138 should be at 9 in:
+-[1, 31, 50, 65, 76, 105, 107, 109, 114, 138]
+ Searching 58 should be at 4 in:
+&[1, 12, 23, 30, 58, 85, 89, 116, 133]
+ Searching 27 should be at 1 in:
+[1, 27]
+ Searching 66 should be at 3 in:
+"[1, 14, 40, 66, 69, 74, 102, 132]
+ Searching 63 should be at 4 in:
+.[1, 6, 24, 49, 63, 74, 79, 94, 106, 121, 140]
+ Searching 13 should be at 1 in:
+[1, 13, 42, 65]
+Searching 1 should be at 0 in:
+[1]
+!Searching 136 should be at 7 in:
+"[1, 2, 33, 62, 92, 108, 118, 136]
+ Searching 58 should be at 4 in:
+?[1, 25, 27, 52, 58, 69, 91, 122, 131, 157, 165, 183, 193, 207]
+Searching 7 should be at 1 in:
+[1, 7, 25, 39, 68, 75, 93, 94]
+ Searching 17 should be at 1 in:
++[1, 17, 35, 66, 70, 80, 89, 119, 131, 139]
+ Searching 19 should be at 3 in:
+[1, 13, 16, 19, 40, 71]
+ Searching 70 should be at 4 in:
+[1, 9, 33, 39, 70, 75]
+Searching 1 should be at 0 in:
+[1, 27]
+ Searching 58 should be at 3 in:
+[1, 8, 36, 58, 75, 90, 120]
+ Searching 34 should be at 2 in:
+[1, 12, 34]
+ Searching 81 should be at 5 in:
+[1, 25, 54, 67, 72, 81]
+"Searching 217 should be at 12 in:
+;[1, 27, 44, 62, 70, 87, 116, 144, 155, 165, 177, 201, 217]
+ Searching 22 should be at 1 in:
+[1, 22, 47, 78, 89, 94]
+!Searching 163 should be at 7 in:
+3[1, 31, 61, 92, 108, 131, 159, 163, 186, 190, 221]
+ Searching 31 should be at 1 in:
+[1, 31]
+ Searching 32 should be at 2 in:
+[1, 7, 32]
+!Searching 116 should be at 7 in:
+1[1, 25, 49, 67, 77, 89, 114, 116, 119, 150, 181]
+ Searching 49 should be at 6 in:
+[1, 6, 15, 19, 40, 41, 49]
+Searching 1 should be at 0 in:
+[1, 24]
+ Searching 46 should be at 3 in:
+?[1, 18, 35, 46, 65, 71, 78, 100, 125, 141, 163, 183, 201, 217]
+ Searching 32 should be at 1 in:
+"[1, 32, 34, 65, 81, 91, 104, 123]
+Searching 1 should be at 0 in:
+[1]
+ Searching 62 should be at 7 in:
+#[1, 4, 16, 19, 21, 23, 51, 62, 84]
+Searching 1 should be at 0 in:
+-[1, 26, 50, 70, 81, 111, 123, 127, 132, 137]
+ Searching 43 should be at 3 in:
+%[1, 9, 35, 43, 53, 75, 86, 116, 137]
+ Searching 26 should be at 1 in:
+[1, 26]
+ Searching 25 should be at 1 in:
+%[1, 25, 40, 53, 58, 64, 77, 88, 103]
+ Searching 16 should be at 1 in:
+[1, 16, 44, 61]
+ Searching 24 should be at 1 in:
+[1, 24, 44, 71, 100, 122]
+!Searching 172 should be at 9 in:
+@[1, 20, 32, 41, 72, 86, 102, 121, 143, 172, 177, 189, 206, 209]
+ Searching 88 should be at 6 in:
+0[1, 26, 48, 51, 55, 77, 88, 115, 120, 149, 151]
+Searching 1 should be at 0 in:
+[1]
+!Searching 123 should be at 8 in:
+([1, 26, 54, 65, 95, 100, 111, 115, 123]
+Searching 1 should be at 0 in:
+:[1, 27, 53, 62, 82, 85, 91, 110, 116, 118, 147, 177, 191]
+ Searching 60 should be at 3 in:
+&[1, 9, 31, 60, 75, 89, 117, 127, 139]
+ Searching 38 should be at 4 in:
+[1, 7, 12, 20, 38]
+ Searching 33 should be at 3 in:
+;[1, 6, 32, 33, 34, 41, 43, 61, 74, 91, 112, 128, 140, 147]
+ Searching 33 should be at 2 in:
+ [1, 21, 33, 46, 57, 64, 65, 67]
+Searching 1 should be at 0 in:
+[1, 23, 35]
+"Searching 157 should be at 10 in:
+;[1, 13, 35, 43, 70, 98, 114, 130, 138, 153, 157, 175, 178]
+Searching 1 should be at 0 in:
+?[1, 16, 39, 59, 60, 72, 83, 111, 136, 159, 178, 181, 183, 198]
+Searching 7 should be at 1 in:
+[1, 7, 22, 31]
+"Searching 206 should be at 11 in:
+7[1, 32, 51, 80, 96, 113, 128, 137, 155, 167, 181, 206]
+Searching 5 should be at 1 in:
+.[1, 5, 12, 16, 45, 74, 90, 92, 101, 109, 117]
+ Searching 88 should be at 5 in:
+@[1, 20, 28, 36, 65, 88, 101, 111, 124, 148, 174, 187, 213, 227]
+!Searching 131 should be at 6 in:
+7[1, 26, 53, 64, 81, 112, 131, 143, 145, 165, 190, 216]
+!Searching 127 should be at 7 in:
+"[1, 12, 37, 62, 69, 86, 105, 127]
+ Searching 71 should be at 4 in:
++[1, 21, 33, 55, 71, 74, 93, 115, 133, 149]
+"Searching 196 should be at 11 in:
+6[1, 31, 62, 66, 85, 93, 104, 123, 137, 151, 175, 196]
+ Searching 21 should be at 2 in:
+[1, 11, 21]
+Searching 1 should be at 0 in:
+[1, 10, 28]
+ Searching 33 should be at 4 in:
+6[1, 4, 8, 28, 33, 35, 61, 68, 94, 110, 112, 131, 149]
+ Searching 74 should be at 3 in:
+,[1, 16, 44, 74, 84, 99, 120, 140, 154, 170]
+"Searching 176 should be at 12 in:
+<[1, 31, 56, 77, 94, 104, 110, 139, 140, 155, 160, 166, 176]
+!Searching 118 should be at 6 in:
+#[1, 28, 30, 58, 86, 104, 118, 140]
+ Searching 27 should be at 2 in:
+[1, 24, 27]
+ Searching 27 should be at 3 in:
+&[1, 15, 24, 27, 51, 82, 98, 100, 108]
+ Searching 16 should be at 1 in:
+[1, 16]
+ Searching 61 should be at 4 in:
+?[1, 3, 30, 44, 61, 82, 107, 136, 166, 175, 182, 185, 216, 230]
+ Searching 65 should be at 4 in:
+/[1, 9, 37, 62, 65, 77, 95, 105, 114, 132, 163]
+Searching 5 should be at 1 in:
+9[1, 5, 28, 41, 50, 77, 84, 103, 115, 124, 141, 158, 185]
+ Searching 26 should be at 3 in:
+[1, 18, 20, 26, 37, 57]
+ Searching 81 should be at 5 in:
+,[1, 29, 31, 41, 61, 81, 112, 134, 150, 175]
