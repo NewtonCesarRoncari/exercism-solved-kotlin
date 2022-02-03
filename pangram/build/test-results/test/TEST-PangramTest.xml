@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PangramTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-02-02T23:41:11" hostname="CTNAPPLE3EFML7J.local" time="0.064">
+  <properties/>
+  <testcase name="missingTheLetterH" classname="PangramTest" time="0.059"/>
+  <testcase name="missingTheLetterX" classname="PangramTest" time="0.0"/>
+  <testcase name="emptySentence" classname="PangramTest" time="0.0"/>
+  <testcase name="missingLettersReplacedByNumbers" classname="PangramTest" time="0.001"/>
+  <testcase name="withNumbers" classname="PangramTest" time="0.0"/>
+  <testcase name="mixedCaseAndPunctuation" classname="PangramTest" time="0.0"/>
+  <testcase name="caseInsensitive" classname="PangramTest" time="0.0"/>
+  <testcase name="withUnderscores" classname="PangramTest" time="0.001"/>
+  <testcase name="onlyLowerCase" classname="PangramTest" time="0.0"/>
+  <testcase name="perfectLowerCase" classname="PangramTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
