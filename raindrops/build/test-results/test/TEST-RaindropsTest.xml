@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RaindropsTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-02-04T00:50:16" hostname="CTNAPPLE3EFML7J.local" time="0.026">
+  <properties/>
+  <testcase name="test[0: raindrops(1)=1]" classname="RaindropsTest" time="0.016"/>
+  <testcase name="test[1: raindrops(3)=Pling]" classname="RaindropsTest" time="0.001"/>
+  <testcase name="test[2: raindrops(5)=Plang]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[3: raindrops(7)=Plong]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[4: raindrops(6)=Pling]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[5: raindrops(8)=8]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[6: raindrops(9)=Pling]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[7: raindrops(10)=Plang]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[8: raindrops(14)=Plong]" classname="RaindropsTest" time="0.001"/>
+  <testcase name="test[9: raindrops(15)=PlingPlang]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[10: raindrops(21)=PlingPlong]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[11: raindrops(25)=Plang]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[12: raindrops(27)=Pling]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[13: raindrops(35)=PlangPlong]" classname="RaindropsTest" time="0.001"/>
+  <testcase name="test[14: raindrops(49)=Plong]" classname="RaindropsTest" time="0.0"/>
+  <testcase name="test[15: raindrops(52)=52]" classname="RaindropsTest" time="0.002"/>
+  <testcase name="test[16: raindrops(105)=PlingPlangPlong]" classname="RaindropsTest" time="0.001"/>
+  <testcase name="test[17: raindrops(3.125)=Plang]" classname="RaindropsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
