@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BobTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2022-02-16T22:34:30" hostname="ni-57550-0.uolcorp.intranet" time="0.037">
+  <properties/>
+  <testcase name="shoutingWithSpecialCharacters" classname="BobTest" time="0.03"/>
+  <testcase name="statementContainingQuestionMark" classname="BobTest" time="0.001"/>
+  <testcase name="nonLettersWithQuestion" classname="BobTest" time="0.0"/>
+  <testcase name="nonQuestionEndingWithWhitespace" classname="BobTest" time="0.0"/>
+  <testcase name="askingANumericQuestion" classname="BobTest" time="0.001"/>
+  <testcase name="shoutingWithNoExclamationMark" classname="BobTest" time="0.0"/>
+  <testcase name="endingWithWhitespace" classname="BobTest" time="0.0"/>
+  <testcase name="prolongedSilence" classname="BobTest" time="0.0"/>
+  <testcase name="startingWithWhitespace" classname="BobTest" time="0.0"/>
+  <testcase name="alternateSilence" classname="BobTest" time="0.0"/>
+  <testcase name="talkingForcefully" classname="BobTest" time="0.0"/>
+  <testcase name="multipleLineQuestion" classname="BobTest" time="0.0"/>
+  <testcase name="prattlingOn" classname="BobTest" time="0.0"/>
+  <testcase name="shouting" classname="BobTest" time="0.0"/>
+  <testcase name="forcefulQuestion" classname="BobTest" time="0.0"/>
+  <testcase name="askingAQuestion" classname="BobTest" time="0.001"/>
+  <testcase name="otherWhitespace" classname="BobTest" time="0.001"/>
+  <testcase name="shoutingNumbers" classname="BobTest" time="0.0"/>
+  <testcase name="noLetters" classname="BobTest" time="0.0"/>
+  <testcase name="shoutingGibberish" classname="BobTest" time="0.0"/>
+  <testcase name="askingGibberish" classname="BobTest" time="0.0"/>
+  <testcase name="usingAcronymsInRegularSpeech" classname="BobTest" time="0.0"/>
+  <testcase name="statingSomething" classname="BobTest" time="0.0"/>
+  <testcase name="silence" classname="BobTest" time="0.0"/>
+  <testcase name="questionWithNoLetters" classname="BobTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
