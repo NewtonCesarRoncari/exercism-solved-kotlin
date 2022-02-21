@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BeerSongTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-02-18T02:07:51" hostname="CTNAPPLE3EFML7J.local" time="0.044">
+  <properties/>
+  <testcase name="lastThreeVerses" classname="BeerSongTest" time="0.041"/>
+  <testcase name="lastGenericVerse" classname="BeerSongTest" time="0.0"/>
+  <testcase name="verse0" classname="BeerSongTest" time="0.0"/>
+  <testcase name="verse1" classname="BeerSongTest" time="0.001"/>
+  <testcase name="verse2" classname="BeerSongTest" time="0.0"/>
+  <testcase name="allVerses" classname="BeerSongTest" time="0.001"/>
+  <testcase name="firstGenericVerse" classname="BeerSongTest" time="0.0"/>
+  <testcase name="firstTwoVerses" classname="BeerSongTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
