@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AcronymTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-02-21T22:59:49" hostname="ni-57550-0.uolcorp.intranet" time="0.032">
+  <properties/>
+  <testcase name="hyphen is ignored" classname="AcronymTest" time="0.03"/>
+  <testcase name="uppercased word at the start" classname="AcronymTest" time="0.0"/>
+  <testcase name="underscore emphasis is ignored" classname="AcronymTest" time="0.0"/>
+  <testcase name="punctuation is ignored" classname="AcronymTest" time="0.0"/>
+  <testcase name="lots of words" classname="AcronymTest" time="0.0"/>
+  <testcase name="apostrophe is ignored" classname="AcronymTest" time="0.0"/>
+  <testcase name="capitalized words" classname="AcronymTest" time="0.0"/>
+  <testcase name="lowercase word in the middle" classname="AcronymTest" time="0.0"/>
+  <testcase name="consecutive delimiters" classname="AcronymTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
