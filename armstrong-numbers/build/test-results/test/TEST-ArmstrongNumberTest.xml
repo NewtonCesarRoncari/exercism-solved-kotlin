@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArmstrongNumberTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-02-23T02:20:45" hostname="ni-57550-0.uolcorp.intranet" time="0.043">
+  <properties/>
+  <testcase name="seven digit number that is not an armstrong number" classname="ArmstrongNumberTest" time="0.02"/>
+  <testcase name="there are no 2 digit armstrong numbers" classname="ArmstrongNumberTest" time="0.0"/>
+  <testcase name="four digit number that is not an armstrong number" classname="ArmstrongNumberTest" time="0.0"/>
+  <testcase name="single digit numbers are armstrong numbers" classname="ArmstrongNumberTest" time="0.0"/>
+  <testcase name="test" classname="ArmstrongNumberTest" time="0.02"/>
+  <testcase name="seven digit number that is an armstrong number" classname="ArmstrongNumberTest" time="0.0"/>
+  <testcase name="zero is an armstrong number" classname="ArmstrongNumberTest" time="0.0"/>
+  <testcase name="three digit number that is not an armstrong number" classname="ArmstrongNumberTest" time="0.0"/>
+  <testcase name="three digit number that is an armstrong number" classname="ArmstrongNumberTest" time="0.0"/>
+  <testcase name="four digit number that is an armstrong number" classname="ArmstrongNumberTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
