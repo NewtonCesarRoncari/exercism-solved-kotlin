@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsbnVerifierTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-02-24T23:44:36" hostname="ni-57550-0.uolcorp.intranet" time="0.042">
+  <properties/>
+  <testcase name="invalid - X is only valid as check digit" classname="IsbnVerifierTest" time="0.035"/>
+  <testcase name="invalid - check digit" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="valid - check digit is 10" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="valid - reguar isbn" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="valid - without separating dashes and X as check digit" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalid - check digit is character other than X" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalid - too long and no dashes" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalid - prohibited characters are not ignored" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalid - check digit of X is not used for 0" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalid - input is 9 characters" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalid - without check digit" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="valid - without separating dashes" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalid - too long but contains valid isbn" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalid - empty" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalid - forbidden character" classname="IsbnVerifierTest" time="0.0"/>
+  <testcase name="invalid - too short" classname="IsbnVerifierTest" time="0.001"/>
+  <testcase name="invalid - without check digit and dashes" classname="IsbnVerifierTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
