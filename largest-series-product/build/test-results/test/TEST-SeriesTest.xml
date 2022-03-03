@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeriesTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-03-03T01:15:34" hostname="CTNAPPLE3EFML7J.local" time="0.036">
+  <properties/>
+  <testcase name="corner - zero span on not empty sequence" classname="SeriesTest" time="0.022"/>
+  <testcase name="reject - negative span" classname="SeriesTest" time="0.0"/>
+  <testcase name="span 2" classname="SeriesTest" time="0.007"/>
+  <testcase name="span 3" classname="SeriesTest" time="0.0"/>
+  <testcase name="corner - span equals length" classname="SeriesTest" time="0.001"/>
+  <testcase name="zeros - dense" classname="SeriesTest" time="0.0"/>
+  <testcase name="zeros - only" classname="SeriesTest" time="0.0"/>
+  <testcase name="corner - long source sequence" classname="SeriesTest" time="0.0"/>
+  <testcase name="reject - span longer than string length" classname="SeriesTest" time="0.0"/>
+  <testcase name="reject - nondigits in source sequence" classname="SeriesTest" time="0.0"/>
+  <testcase name="numbers in order - span 2" classname="SeriesTest" time="0.0"/>
+  <testcase name="numbers in order - span 3" classname="SeriesTest" time="0.0"/>
+  <testcase name="numbers in order - span 5" classname="SeriesTest" time="0.001"/>
+  <testcase name="reject - empty string and nonzero span" classname="SeriesTest" time="0.0"/>
+  <testcase name="corner - zero span on empty sequence" classname="SeriesTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
