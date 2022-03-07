@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LuhnTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-03-03T23:51:58" hostname="CTNAPPLE3EFML7J.local" time="0.031">
+  <properties/>
+  <testcase name="valid - even amount of digits" classname="LuhnTest" time="0.023"/>
+  <testcase name="invalid - non-digit at the end of valid" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid - credit card" classname="LuhnTest" time="0.0"/>
+  <testcase name="valid | valid luhn with an odd number of digits and non zero first digit" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid - single zero with space" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid - symbols in valid" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid - a single zero" classname="LuhnTest" time="0.0"/>
+  <testcase name="valid - input digit 9" classname="LuhnTest" time="0.0"/>
+  <testcase name="valid - Canadian" classname="LuhnTest" time="0.001"/>
+  <testcase name="invalid - ascii value for non-doubled non-digit in the middle" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid - single digit" classname="LuhnTest" time="0.0"/>
+  <testcase name="valid - many zeros" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid - ascii value for non-doubled non-digit at the start" classname="LuhnTest" time="0.0"/>
+  <testcase name="valid - odd amount of spaces" classname="LuhnTest" time="0.001"/>
+  <testcase name="invalid - punctuation in valid" classname="LuhnTest" time="0.0"/>
+  <testcase name="valid - simple unreversable" classname="LuhnTest" time="0.001"/>
+  <testcase name="valid - simple reversable" classname="LuhnTest" time="0.0"/>
+  <testcase name="invalid - Canadian" classname="LuhnTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
