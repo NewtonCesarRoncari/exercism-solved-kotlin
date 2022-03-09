@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PhoneNumberTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-03-08T23:50:57" hostname="ni-57550-0.uolcorp.intranet" time="0.055">
+  <properties/>
+  <testcase name="invalid - 9 digit" classname="PhoneNumberTest" time="0.007"/>
+  <testcase name="invalid - letters" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="valid - number with dots" classname="PhoneNumberTest" time="0.037"/>
+  <testcase name="invalid - punctuations" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalid - more than 11 digits" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid - area code starts with 0" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid - area code starts with 1" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid - exchange code starts with 0" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid - exchange code starts with 1" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="valid - numbers with multiple spaces" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid - when 11 digits does not start with a 1" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="valid - 11 digits starting with 1 with punctuation" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="valid - simple number" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="valid - 11 digits and starting with 1" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalid - exchange code starts with 0 on valid 11-digit number" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalid - exchange code starts with 1 on valid 11-digit number" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalid - area code starts with 0 on valid 11-digit number" classname="PhoneNumberTest" time="0.001"/>
+  <testcase name="invalid - area code starts with 1 on valid 11-digit number" classname="PhoneNumberTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
