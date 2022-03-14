@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RomanNumeralsTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-03-11T01:54:39" hostname="CTNAPPLE3EFML7J.local" time="0.031">
+  <properties/>
+  <testcase name="test[0: romanNumeral(1)=I]" classname="RomanNumeralsTest" time="0.023"/>
+  <testcase name="test[1: romanNumeral(2)=II]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[2: romanNumeral(3)=III]" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test[3: romanNumeral(4)=IV]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[4: romanNumeral(5)=V]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[5: romanNumeral(6)=VI]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[6: romanNumeral(9)=IX]" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test[7: romanNumeral(27)=XXVII]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[8: romanNumeral(48)=XLVIII]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[9: romanNumeral(49)=XLIX]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[10: romanNumeral(59)=LIX]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[11: romanNumeral(93)=XCIII]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[12: romanNumeral(141)=CXLI]" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test[13: romanNumeral(163)=CLXIII]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[14: romanNumeral(402)=CDII]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[15: romanNumeral(575)=DLXXV]" classname="RomanNumeralsTest" time="0.001"/>
+  <testcase name="test[16: romanNumeral(911)=CMXI]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[17: romanNumeral(1.024)=MXXIV]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="test[18: romanNumeral(3.000)=MMM]" classname="RomanNumeralsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
