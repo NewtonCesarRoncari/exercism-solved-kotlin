@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CustomSetTest" tests="38" skipped="0" failures="0" errors="0" timestamp="2022-03-15T23:04:37" hostname="ni-57550-0.uolcorp.intranet" time="0.058">
+  <properties/>
+  <testcase name="intersection of a non empty set and an empty set is an empty set" classname="CustomSetTest" time="0.041"/>
+  <testcase name="intersection of two sets with no shared elements is an empty set" classname="CustomSetTest" time="0.001"/>
+  <testcase name="difference of two empty sets is an empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="sets with the same elements are equal" classname="CustomSetTest" time="0.0"/>
+  <testcase name="set is not a subset of set that does not contain its elements" classname="CustomSetTest" time="0.002"/>
+  <testcase name="intersection of two sets with shared elements is a set of the shared elements" classname="CustomSetTest" time="0.0"/>
+  <testcase name="union of an empty set and non empty set is the non empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="sets are disjoint if they share no elements" classname="CustomSetTest" time="0.001"/>
+  <testcase name="union of a non empty set and empty set is the non empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="set is a subset of set with exact same elements" classname="CustomSetTest" time="0.0"/>
+  <testcase name="intersection of an empty set and non empty set is an empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="union of non empty sets contains all unique elements" classname="CustomSetTest" time="0.0"/>
+  <testcase name="sets with elements are not empty" classname="CustomSetTest" time="0.0"/>
+  <testcase name="intersection of two empty sets is an empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="empty set is not equal to non empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="the empty set is disjoint with itself" classname="CustomSetTest" time="0.001"/>
+  <testcase name="when the element is not in the set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="adding an existing element does not change the set" classname="CustomSetTest" time="0.001"/>
+  <testcase name="nothing is contained in an empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="add to empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="difference of a non empty set and an empty set is the non empty set" classname="CustomSetTest" time="0.001"/>
+  <testcase name="empty set is a subset of non empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="non empty set is not equal to empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="union of empty sets is an empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="when the element is in the set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="set is a subset of larger set with same elements" classname="CustomSetTest" time="0.0"/>
+  <testcase name="empty set is a subset of another empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="sets with different elements are not equal" classname="CustomSetTest" time="0.001"/>
+  <testcase name="difference of empty set and non empty set is an empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="difference of two non empty sets is a set of elements that are only in the first set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="empty set is disjoint with non empty set" classname="CustomSetTest" time="0.001"/>
+  <testcase name="non empty set is not a subset of empty set" classname="CustomSetTest" time="0.0"/>
+  <testcase name="empty sets are equal" classname="CustomSetTest" time="0.0"/>
+  <testcase name="set is not equal to larger set with same elements" classname="CustomSetTest" time="0.0"/>
+  <testcase name="add to non empty set" classname="CustomSetTest" time="0.001"/>
+  <testcase name="sets are not disjoint if they share an element" classname="CustomSetTest" time="0.0"/>
+  <testcase name="sets with no elements are empty" classname="CustomSetTest" time="0.0"/>
+  <testcase name="non empty set is disjoint with empty set" classname="CustomSetTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
