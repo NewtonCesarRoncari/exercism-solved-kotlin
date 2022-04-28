@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RunLengthEncodingTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-04-28T00:21:16" hostname="ni-57550-0.uolcorp.intranet" time="0.036">
+  <properties/>
+  <testcase name="encode_string with no single characters" classname="RunLengthEncodingTest" time="0.024"/>
+  <testcase name="decode_empty string" classname="RunLengthEncodingTest" time="0.0"/>
+  <testcase name="encode_single characters only are encoded without count" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="encode followed by decode gives original string" classname="RunLengthEncodingTest" time="0.007"/>
+  <testcase name="decode_single characters with repeated characters" classname="RunLengthEncodingTest" time="0.0"/>
+  <testcase name="decode_lower case string" classname="RunLengthEncodingTest" time="0.0"/>
+  <testcase name="encode_single characters mixed with repeated characters" classname="RunLengthEncodingTest" time="0.0"/>
+  <testcase name="encode_multiple whitespace mixed in string" classname="RunLengthEncodingTest" time="0.0"/>
+  <testcase name="decode_multiple whitespace mixed in string" classname="RunLengthEncodingTest" time="0.0"/>
+  <testcase name="decode_single characters only" classname="RunLengthEncodingTest" time="0.0"/>
+  <testcase name="decode_string with no single characters" classname="RunLengthEncodingTest" time="0.0"/>
+  <testcase name="encode_empty string" classname="RunLengthEncodingTest" time="0.001"/>
+  <testcase name="encode_lowercase characters" classname="RunLengthEncodingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
